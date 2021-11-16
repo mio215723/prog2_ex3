@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ex3.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-16T01:00:21" hostname="mionoAir.AirPort" time="0.025">
+  <properties/>
+  <testcase name="appHasAGreeting()" classname="ex3.AppTest" time="0.025"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
